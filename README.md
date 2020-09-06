@@ -6,11 +6,11 @@ The overview of the system is given in the diagram below.
 
 ![System Overview]( https://github.com/sudipbarua/Traffic-Signal-Controller/blob/master/System%20Overview.JPG)
 
-Fig: System overview diagram.
+  Fig: System overview diagram.
 
 To implement this system, a simple Finite State Machine is designed that contains 6 states show in the above diagram. The transition from one state to the other is illustrated in the following diagram.  
 ![FSM]( https://github.com/sudipbarua/Traffic-Signal-Controller/blob/master/FSM%20diagram.JPG)
 
-Fig: Finite State Machine. 
+  Fig: Finite State Machine. 
 
 The clock signal is 20Hz. 
